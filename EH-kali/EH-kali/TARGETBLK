@@ -1,0 +1,47 @@
+netname:	STAFFS-NET
+inetnum:        193.60.1.0 - 193.60.7.255
+
+netname: 	STF-NET20 (DMZ)
+inetnum:        193.62.26.0 - 193.62.26.255
+
+netname:	STAF-NET11
+inetnum:        194.66.168.0 - 194.66.168.255
+
+netname:	STAF-NET12
+inetnum:        194.66.169.0 - 194.66.169.255
+
+netname:	STAF-NET13
+inetnum:        194.66.170.0 - 194.66.170.255
+
+netname:	STAF-NET14
+inetnum:        194.66.171.0 - 194.66.171.255
+
+netname:	STAF-NET15
+inetnum:        194.66.172.0 - 194.66.172.255
+
+netname:	STAF-NET16
+inetnum:        194.66.173.0 - 194.66.173.255
+
+netname:	STAF-NET17
+inetnum:        194.66.174.0 - 194.66.174.255
+
+netname:	STAF-NET18
+inetnum:        194.66.175.0 - 194.66.175.255
+
+194.66.168.0/21
+255.255.248.0
+0.0.7.255
+
+
+92.242.132.9 ns0.staffs.ac.uk
+
+cruscampus3.staffs.ac.uk (193.62.26.11)
+cruscampus4.staffs.ac.uk (193.62.26.12)
+crwnmis3.staffs.ac.uk (193.62.26.102)
+staffs.ac.uk (193.62.26.105)
+autodns-193-62-26-227.staffs.ac.uk (193.62.26.227)
+crwnmentor1.staffs.ac.uk (193.62.26.230)
+crwncareers1.staffs.ac.uk (193.62.26.231)
+autodns-193-62-26-236.staffs.ac.uk (193.62.26.236)
+crusmaildb1.staffs.ac.uk (193.62.26.246)
+

@@ -1,0 +1,813 @@
+inetnum:        193.60.0.0 - 193.60.0.255
+netname:        JIPS-EastNET
+descr:          JANET IP Service - EastNET
+inetnum:        193.60.1.0 - 193.60.7.255
+netname:        STAFFS-NET
+descr:          Staffordshire University
+inetnum:        193.60.1.0 - 193.60.7.255
+netname:        STAFFS-NET
+descr:          Staffordshire University
+inetnum:        193.60.1.0 - 193.60.7.255
+netname:        STAFFS-NET
+descr:          Staffordshire University
+inetnum:        193.60.1.0 - 193.60.7.255
+netname:        STAFFS-NET
+descr:          Staffordshire University
+inetnum:        193.60.1.0 - 193.60.7.255
+netname:        STAFFS-NET
+descr:          Staffordshire University
+inetnum:        193.60.1.0 - 193.60.7.255
+netname:        STAFFS-NET
+descr:          Staffordshire University
+inetnum:        193.60.1.0 - 193.60.7.255
+netname:        STAFFS-NET
+descr:          Staffordshire University
+inetnum:        193.60.8.0 - 193.60.8.255
+netname:        ABERNET3
+descr:          University of Wales, Aberystwyth
+inetnum:        193.60.9.0 - 193.60.9.255
+netname:        ABERNET4
+descr:          Aberystwyth University
+inetnum:        193.60.10.0 - 193.60.10.255
+netname:        ABERNET5
+descr:          Aberystwyth University
+inetnum:        193.60.11.0 - 193.60.11.255
+netname:        ABERNET6
+descr:          Aberystwyth University
+inetnum:        193.60.12.0 - 193.60.12.255
+netname:        ABERNET7
+descr:          Aberystwyth University
+inetnum:        193.60.13.0 - 193.60.13.255
+netname:        ABERNET8
+descr:          Aberystwyth University
+inetnum:        193.60.14.0 - 193.60.14.255
+netname:        ABERNET9
+descr:          Aberystwyth University
+inetnum:        193.60.15.0 - 193.60.15.255
+netname:        ABERNET10
+descr:          Aberystwyth University
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.0.0 - 193.63.255.255
+netname:        UK-JANET-193-60-193-63
+descr:          JISC Collections And Janet Limited
+inetnum:        193.60.48.0 - 193.60.63.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.48.0 - 193.60.63.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.48.0 - 193.60.63.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.48.0 - 193.60.63.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.48.0 - 193.60.63.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.48.0 - 193.60.63.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.48.0 - 193.60.63.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.48.0 - 193.60.63.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.48.0 - 193.60.63.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.48.0 - 193.60.63.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.48.0 - 193.60.63.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.48.0 - 193.60.63.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.48.0 - 193.60.63.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.48.0 - 193.60.63.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.48.0 - 193.60.63.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.48.0 - 193.60.63.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.64.0 - 193.60.79.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.64.0 - 193.60.79.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.64.0 - 193.60.79.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.64.0 - 193.60.79.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.64.0 - 193.60.79.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.64.0 - 193.60.79.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.64.0 - 193.60.79.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.64.0 - 193.60.79.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.64.0 - 193.60.79.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.64.0 - 193.60.79.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.64.0 - 193.60.79.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.64.0 - 193.60.79.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.64.0 - 193.60.79.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.64.0 - 193.60.79.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.64.0 - 193.60.79.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.64.0 - 193.60.79.255
+netname:        GREENWICH
+descr:          Greenwich University
+inetnum:        193.60.80.0 - 193.60.95.255
+netname:        CAM-AC-UK
+descr:          University of Cambridge
+inetnum:        193.60.80.0 - 193.60.95.255
+netname:        CAM-AC-UK
+descr:          University of Cambridge
+inetnum:        193.60.80.0 - 193.60.95.255
+netname:        CAM-AC-UK
+descr:          University of Cambridge
+inetnum:        193.60.80.0 - 193.60.95.255
+netname:        CAM-AC-UK
+descr:          University of Cambridge
+inetnum:        193.60.80.0 - 193.60.95.255
+netname:        CAM-AC-UK
+descr:          University of Cambridge
+inetnum:        193.60.80.0 - 193.60.95.255
+netname:        CAM-AC-UK
+descr:          University of Cambridge
+inetnum:        193.60.80.0 - 193.60.95.255
+netname:        CAM-AC-UK
+descr:          University of Cambridge
+inetnum:        193.60.80.0 - 193.60.95.255
+netname:        CAM-AC-UK
+descr:          University of Cambridge
+inetnum:        193.60.80.0 - 193.60.95.255
+netname:        CAM-AC-UK
+descr:          University of Cambridge
+inetnum:        193.60.80.0 - 193.60.95.255
+netname:        CAM-AC-UK
+descr:          University of Cambridge
+inetnum:        193.60.80.0 - 193.60.95.255
+netname:        CAM-AC-UK
+descr:          University of Cambridge
+inetnum:        193.60.80.0 - 193.60.95.255
+netname:        CAM-AC-UK
+descr:          University of Cambridge
+inetnum:        193.60.80.0 - 193.60.95.255
+netname:        CAM-AC-UK
+descr:          University of Cambridge
+inetnum:        193.60.80.0 - 193.60.95.255
+netname:        CAM-AC-UK
+descr:          University of Cambridge
+inetnum:        193.60.80.0 - 193.60.95.255
+netname:        CAM-AC-UK
+descr:          University of Cambridge
+inetnum:        193.60.80.0 - 193.60.95.255
+netname:        CAM-AC-UK
+descr:          University of Cambridge
+inetnum:        193.60.96.0 - 193.60.103.255
+netname:        UNIVERSITY-OF-GLOUCESTERSHIRE
+descr:          University of Gloucestershire
+inetnum:        193.60.96.0 - 193.60.103.255
+netname:        UNIVERSITY-OF-GLOUCESTERSHIRE
+descr:          University of Gloucestershire
+inetnum:        193.60.96.0 - 193.60.103.255
+netname:        UNIVERSITY-OF-GLOUCESTERSHIRE
+descr:          University of Gloucestershire
+inetnum:        193.60.96.0 - 193.60.103.255
+netname:        UNIVERSITY-OF-GLOUCESTERSHIRE
+descr:          University of Gloucestershire
+inetnum:        193.60.96.0 - 193.60.103.255
+netname:        UNIVERSITY-OF-GLOUCESTERSHIRE
+descr:          University of Gloucestershire
+inetnum:        193.60.96.0 - 193.60.103.255
+netname:        UNIVERSITY-OF-GLOUCESTERSHIRE
+descr:          University of Gloucestershire
+inetnum:        193.60.96.0 - 193.60.103.255
+netname:        UNIVERSITY-OF-GLOUCESTERSHIRE
+descr:          University of Gloucestershire
+inetnum:        193.60.96.0 - 193.60.103.255
+netname:        UNIVERSITY-OF-GLOUCESTERSHIRE
+descr:          University of Gloucestershire
+inetnum:        193.60.104.0 - 193.60.111.255
+netname:        CCC-UNIVERSITY
+descr:          Canterbury Christ Church University
+inetnum:        193.60.104.0 - 193.60.111.255
+netname:        CCC-UNIVERSITY
+descr:          Canterbury Christ Church University
+inetnum:        193.60.104.0 - 193.60.111.255
+netname:        CCC-UNIVERSITY
+descr:          Canterbury Christ Church University
+inetnum:        193.60.104.0 - 193.60.111.255
+netname:        CCC-UNIVERSITY
+descr:          Canterbury Christ Church University
+inetnum:        193.60.104.0 - 193.60.111.255
+netname:        CCC-UNIVERSITY
+descr:          Canterbury Christ Church University
+inetnum:        193.60.104.0 - 193.60.111.255
+netname:        CCC-UNIVERSITY
+descr:          Canterbury Christ Church University
+inetnum:        193.60.104.0 - 193.60.111.255
+netname:        CCC-UNIVERSITY
+descr:          Canterbury Christ Church University
+inetnum:        193.60.104.0 - 193.60.111.255
+netname:        CCC-UNIVERSITY
+descr:          Canterbury Christ Church University
+inetnum:        193.60.112.0 - 193.60.123.255
+netname:        KINGS-HS2000
+descr:          King's College Hospital
+inetnum:        193.60.112.0 - 193.60.123.255
+netname:        KINGS-HS2000
+descr:          King's College Hospital
+inetnum:        193.60.112.0 - 193.60.123.255
+netname:        KINGS-HS2000
+descr:          King's College Hospital
+inetnum:        193.60.112.0 - 193.60.123.255
+netname:        KINGS-HS2000
+descr:          King's College Hospital
+inetnum:        193.60.112.0 - 193.60.123.255
+netname:        KINGS-HS2000
+descr:          King's College Hospital
+inetnum:        193.60.112.0 - 193.60.123.255
+netname:        KINGS-HS2000
+descr:          King's College Hospital
+inetnum:        193.60.112.0 - 193.60.123.255
+netname:        KINGS-HS2000
+descr:          King's College Hospital
+inetnum:        193.60.112.0 - 193.60.123.255
+netname:        KINGS-HS2000
+descr:          King's College Hospital
+inetnum:        193.60.112.0 - 193.60.123.255
+netname:        KINGS-HS2000
+descr:          King's College Hospital
+inetnum:        193.60.112.0 - 193.60.123.255
+netname:        KINGS-HS2000
+descr:          King's College Hospital
+inetnum:        193.60.112.0 - 193.60.123.255
+netname:        KINGS-HS2000
+descr:          King's College Hospital
+inetnum:        193.60.112.0 - 193.60.123.255
+netname:        KINGS-HS2000
+descr:          King's College Hospital
+inetnum:        193.60.124.0 - 193.60.127.255
+netname:        STFNET-38
+descr:          Staffordshire University
+inetnum:        193.60.124.0 - 193.60.127.255
+netname:        STFNET-38
+descr:          Staffordshire University
+inetnum:        193.60.124.0 - 193.60.127.255
+netname:        STFNET-38
+descr:          Staffordshire University
+inetnum:        193.60.124.0 - 193.60.127.255
+netname:        STFNET-38
+descr:          Staffordshire University
+inetnum:        193.60.128.0 - 193.60.143.255
+netname:        BCU-EXTERNAL
+descr:          Birmingham City University
+inetnum:        193.60.128.0 - 193.60.143.255
+netname:        BCU-EXTERNAL
+descr:          Birmingham City University
+inetnum:        193.60.128.0 - 193.60.143.255
+netname:        BCU-EXTERNAL
+descr:          Birmingham City University
+inetnum:        193.60.128.0 - 193.60.143.255
+netname:        BCU-EXTERNAL
+descr:          Birmingham City University
+inetnum:        193.60.128.0 - 193.60.143.255
+netname:        BCU-EXTERNAL
+descr:          Birmingham City University
+inetnum:        193.60.128.0 - 193.60.143.255
+netname:        BCU-EXTERNAL
+descr:          Birmingham City University
+inetnum:        193.60.128.0 - 193.60.143.255
+netname:        BCU-EXTERNAL
+descr:          Birmingham City University
+inetnum:        193.60.128.0 - 193.60.143.255
+netname:        BCU-EXTERNAL
+descr:          Birmingham City University
+inetnum:        193.60.128.0 - 193.60.143.255
+netname:        BCU-EXTERNAL
+descr:          Birmingham City University
+inetnum:        193.60.128.0 - 193.60.143.255
+netname:        BCU-EXTERNAL
+descr:          Birmingham City University
+inetnum:        193.60.128.0 - 193.60.143.255
+netname:        BCU-EXTERNAL
+descr:          Birmingham City University
+inetnum:        193.60.128.0 - 193.60.143.255
+netname:        BCU-EXTERNAL
+descr:          Birmingham City University
+inetnum:        193.60.128.0 - 193.60.143.255
+netname:        BCU-EXTERNAL
+descr:          Birmingham City University
+inetnum:        193.60.128.0 - 193.60.143.255
+netname:        BCU-EXTERNAL
+descr:          Birmingham City University
+inetnum:        193.60.128.0 - 193.60.143.255
+netname:        BCU-EXTERNAL
+descr:          Birmingham City University
+inetnum:        193.60.128.0 - 193.60.143.255
+netname:        BCU-EXTERNAL
+descr:          Birmingham City University
+inetnum:        193.60.144.0 - 193.60.151.255
+netname:        DERBY-NET
+descr:          University of Derby
+inetnum:        193.60.144.0 - 193.60.151.255
+netname:        DERBY-NET
+descr:          University of Derby
+inetnum:        193.60.144.0 - 193.60.151.255
+netname:        DERBY-NET
+descr:          University of Derby
+inetnum:        193.60.144.0 - 193.60.151.255
+netname:        DERBY-NET
+descr:          University of Derby
+inetnum:        193.60.144.0 - 193.60.151.255
+netname:        DERBY-NET
+descr:          University of Derby
+inetnum:        193.60.144.0 - 193.60.151.255
+netname:        DERBY-NET
+descr:          University of Derby
+inetnum:        193.60.144.0 - 193.60.151.255
+netname:        DERBY-NET
+descr:          University of Derby
+inetnum:        193.60.144.0 - 193.60.151.255
+netname:        DERBY-NET
+descr:          University of Derby
+inetnum:        193.60.152.0 - 193.60.159.255
+netname:        MANLAN
+descr:          The University of Manchester Local Area Network
+inetnum:        193.60.152.0 - 193.60.159.255
+netname:        MANLAN
+descr:          The University of Manchester Local Area Network
+inetnum:        193.60.152.0 - 193.60.159.255
+netname:        MANLAN
+descr:          The University of Manchester Local Area Network
+inetnum:        193.60.152.0 - 193.60.159.255
+netname:        MANLAN
+descr:          The University of Manchester Local Area Network
+inetnum:        193.60.152.0 - 193.60.159.255
+netname:        MANLAN
+descr:          The University of Manchester Local Area Network
+inetnum:        193.60.152.0 - 193.60.159.255
+netname:        MANLAN
+descr:          The University of Manchester Local Area Network
+inetnum:        193.60.152.0 - 193.60.159.255
+netname:        MANLAN
+descr:          The University of Manchester Local Area Network
+inetnum:        193.60.152.0 - 193.60.159.255
+netname:        MANLAN
+descr:          The University of Manchester Local Area Network
+inetnum:        193.60.160.0 - 193.60.175.255
+netname:        DIT-NET
+descr:          University of Abertay Dundee
+inetnum:        193.60.160.0 - 193.60.175.255
+netname:        DIT-NET
+descr:          University of Abertay Dundee
+inetnum:        193.60.160.0 - 193.60.175.255
+netname:        DIT-NET
+descr:          University of Abertay Dundee
+inetnum:        193.60.160.0 - 193.60.175.255
+netname:        DIT-NET
+descr:          University of Abertay Dundee
+inetnum:        193.60.160.0 - 193.60.175.255
+netname:        DIT-NET
+descr:          University of Abertay Dundee
+inetnum:        193.60.160.0 - 193.60.175.255
+netname:        DIT-NET
+descr:          University of Abertay Dundee
+inetnum:        193.60.160.0 - 193.60.175.255
+netname:        DIT-NET
+descr:          University of Abertay Dundee
+inetnum:        193.60.160.0 - 193.60.175.255
+netname:        DIT-NET
+descr:          University of Abertay Dundee
+inetnum:        193.60.160.0 - 193.60.175.255
+netname:        DIT-NET
+descr:          University of Abertay Dundee
+inetnum:        193.60.160.0 - 193.60.175.255
+netname:        DIT-NET
+descr:          University of Abertay Dundee
+inetnum:        193.60.160.0 - 193.60.175.255
+netname:        DIT-NET
+descr:          University of Abertay Dundee
+inetnum:        193.60.160.0 - 193.60.175.255
+netname:        DIT-NET
+descr:          University of Abertay Dundee
+inetnum:        193.60.160.0 - 193.60.175.255
+netname:        DIT-NET
+descr:          University of Abertay Dundee
+inetnum:        193.60.160.0 - 193.60.175.255
+netname:        DIT-NET
+descr:          University of Abertay Dundee
+inetnum:        193.60.160.0 - 193.60.175.255
+netname:        DIT-NET
+descr:          University of Abertay Dundee
+inetnum:        193.60.160.0 - 193.60.175.255
+netname:        DIT-NET
+descr:          University of Abertay Dundee
+inetnum:        193.60.176.0 - 193.60.191.255
+netname:        DURHAM
+descr:          University of Durham
+inetnum:        193.60.176.0 - 193.60.191.255
+netname:        DURHAM
+descr:          University of Durham
+inetnum:        193.60.176.0 - 193.60.191.255
+netname:        DURHAM
+descr:          University of Durham
+inetnum:        193.60.176.0 - 193.60.191.255
+netname:        DURHAM
+descr:          University of Durham
+inetnum:        193.60.176.0 - 193.60.191.255
+netname:        DURHAM
+descr:          University of Durham
+inetnum:        193.60.176.0 - 193.60.191.255
+netname:        DURHAM
+descr:          University of Durham
+inetnum:        193.60.176.0 - 193.60.191.255
+netname:        DURHAM
+descr:          University of Durham
+inetnum:        193.60.176.0 - 193.60.191.255
+netname:        DURHAM
+descr:          University of Durham
+inetnum:        193.60.176.0 - 193.60.191.255
+netname:        DURHAM
+descr:          University of Durham
+inetnum:        193.60.176.0 - 193.60.191.255
+netname:        DURHAM
+descr:          University of Durham
+inetnum:        193.60.176.0 - 193.60.191.255
+netname:        DURHAM
+descr:          University of Durham
+inetnum:        193.60.176.0 - 193.60.191.255
+netname:        DURHAM
+descr:          University of Durham
+inetnum:        193.60.176.0 - 193.60.191.255
+netname:        DURHAM
+descr:          University of Durham
+inetnum:        193.60.176.0 - 193.60.191.255
+netname:        DURHAM
+descr:          University of Durham
+inetnum:        193.60.176.0 - 193.60.191.255
+netname:        DURHAM
+descr:          University of Durham
+inetnum:        193.60.176.0 - 193.60.191.255
+netname:        DURHAM
+descr:          University of Durham
+inetnum:        193.60.192.0 - 193.60.192.255
+netname:        DURHAM
+descr:          University of Durham
+inetnum:        193.60.193.0 - 193.60.193.255
+netname:        DURHAM
+descr:          University of Durham
+inetnum:        193.60.194.0 - 193.60.194.255
+netname:        DURHAM
+descr:          University of Durham
+inetnum:        193.60.195.0 - 193.60.195.255
+netname:        DURHAM
+descr:          University of Durham
+inetnum:        193.60.196.0 - 193.60.196.255
+netname:        DURHAM
+descr:          University of Durham
+inetnum:        193.60.197.0 - 193.60.197.255
+netname:        DURHAM
+descr:          University of Durham
+inetnum:        193.60.198.0 - 193.60.198.127
+netname:        UNI-BRISTOL-VISITORS
+descr:          University of Bristol
+inetnum:        193.60.199.0 - 193.60.199.63
+netname:        JANET-ANSG
+descr:          JANET(UK)
+inetnum:        193.60.200.0 - 193.60.207.255
+netname:        GLAM-UNI
+descr:          University of Glamorgan
+inetnum:        193.60.200.0 - 193.60.207.255
+netname:        GLAM-UNI
+descr:          University of Glamorgan
+inetnum:        193.60.200.0 - 193.60.207.255
+netname:        GLAM-UNI
+descr:          University of Glamorgan
+inetnum:        193.60.200.0 - 193.60.207.255
+netname:        GLAM-UNI
+descr:          University of Glamorgan
+inetnum:        193.60.200.0 - 193.60.207.255
+netname:        GLAM-UNI
+descr:          University of Glamorgan
+inetnum:        193.60.200.0 - 193.60.207.255
+netname:        GLAM-UNI
+descr:          University of Glamorgan
+inetnum:        193.60.200.0 - 193.60.207.255
+netname:        GLAM-UNI
+descr:          University of Glamorgan
+inetnum:        193.60.200.0 - 193.60.207.255
+netname:        GLAM-UNI
+descr:          University of Glamorgan
+inetnum:        193.60.208.0 - 193.60.215.255
+netname:        BLIB1
+descr:          The British Library Network
+inetnum:        193.60.208.0 - 193.60.215.255
+netname:        BLIB1
+descr:          The British Library Network
+inetnum:        193.60.208.0 - 193.60.215.255
+netname:        BLIB1
+descr:          The British Library Network
+inetnum:        193.60.208.0 - 193.60.215.255
+netname:        BLIB1
+descr:          The British Library Network
+inetnum:        193.60.208.0 - 193.60.215.255
+netname:        BLIB1
+descr:          The British Library Network
+inetnum:        193.60.208.0 - 193.60.215.255
+netname:        BLIB1
+descr:          The British Library Network
+inetnum:        193.60.208.0 - 193.60.215.255
+netname:        BLIB1
+descr:          The British Library Network
+inetnum:        193.60.208.0 - 193.60.215.255
+netname:        BLIB1
+descr:          The British Library Network
+inetnum:        193.60.216.0 - 193.60.217.255
+netname:        GLANHAFREN-1
+descr:          Coleg Glan Hafren
+inetnum:        193.60.216.0 - 193.60.217.255
+netname:        GLANHAFREN-1
+descr:          Coleg Glan Hafren
+inetnum:        193.60.218.0 - 193.60.218.255
+netname:        ITCHEN-6FORM-COLL
+descr:          Itchen College
+inetnum:        193.60.219.0 - 193.60.219.255
+netname:        GLAM-UNI
+descr:          University of Glamorgan
+inetnum:        193.60.220.0 - 193.60.220.255
+netname:        BUCKS-CC
+descr:          Buckinghamshire County Council
+inetnum:        193.60.221.0 - 193.60.221.255
+netname:        UCL-PHARM
+descr:          UCL School of Pharmacy
+inetnum:        193.60.222.0 - 193.60.222.255
+netname:        MRC-CSC
+descr:          MRC Clinical Sciences Centre
+inetnum:        193.60.223.0 - 193.60.223.127
+netname:        KENTISH-MAN
+descr:          The Kentish MAN
+inetnum:        193.60.224.0 - 193.60.224.255
+netname:        BCC-ACUK
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.60.225.0 - 193.60.255.255
+netname:        BCC-ACUK2
+descr:          Bloomsbury Computing Consortium (Birkbeck Geology)
+inetnum:        193.61.0.0 - 193.61.63.255
+netname:        BIRKBECK
+descr:          Birkbeck College
+inetnum:        193.61.0.0 - 193.61.63.255
+netname:        BIRKBECK
+descr:          Birkbeck College
+inetnum:        193.61.0.0 - 193.61.63.255
+netname:        BIRKBECK
+descr:          Birkbeck College
+inetnum:        193.61.0.0 - 193.61.63.255
+netname:        BIRKBECK
+descr:          Birkbeck College
+inetnum:        193.61.0.0 - 193.61.63.255
+netname:        BIRKBECK
+descr:          Birkbeck College
+inetnum:        193.61.0.0 - 193.61.63.255
+netname:        BIRKBECK
+descr:          Birkbeck College
+inetnum:        193.61.0.0 - 193.61.63.255
+netname:        BIRKBECK
+descr:          Birkbeck College
+inetnum:        193.61.0.0 - 193.61.63.255
+netname:        BIRKBECK
+descr:          Birkbeck College
+inetnum:        193.61.0.0 - 193.61.63.255
+netname:        BIRKBECK
+descr:          Birkbeck College
+inetnum:        193.61.0.0 - 193.61.63.255
+netname:        BIRKBECK
+descr:          Birkbeck College
+inetnum:        193.61.0.0 - 193.61.63.255
+netname:        BIRKBECK
+descr:          Birkbeck College
+inetnum:        193.61.0.0 - 193.61.63.255
+netname:        BIRKBECK
+descr:          Birkbeck College
+inetnum:        193.61.0.0 - 193.61.63.255
+netname:        BIRKBECK
+descr:          Birkbeck College
+inetnum:        193.61.0.0 - 193.61.63.255
+netname:        BIRKBECK
+descr:          Birkbeck College
+inetnum:        193.61.0.0 - 193.61.63.255
+netname:        BIRKBECK
+descr:          Birkbeck College

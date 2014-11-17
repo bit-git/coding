@@ -1,0 +1,4383 @@
+route:          212.121.0.0/19
+descr:          Hertfordshire Internet Training Project
+origin:         AS786
+mnt-by:         JIPS-NOSC
+notify:         jips-nosc@nosc.ja.net
+changed:        robert@nosc.ja.net 20010706
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.149.238.0/24
+descr:          NET-BUCKSCOLL
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        nosc@nosc.ja.net 19950807
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          139.166.0.0/16
+descr:          SOC
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        kevin@nosc.ja.net 19950830
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          193.130.15.0/24
+descr:          NAT-LIB-SCOT
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        kevin@nosc.ja.net 19950905
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          193.133.28.0/23
+descr:          Chichester College of Art and Technology
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        robert@nosc.ja.net 19950928
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          143.234.0.0/16
+descr:          SARI
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        kevin@nosc.ja.net 19951003
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.195.116.0/23
+descr:          Wye College
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.195.118.0/24
+descr:          Wye College
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.149.111.0/24
+descr:          Wye College
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          194.155.12.0/22
+descr:          UKNHS-82-1
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          194.155.16.0/22
+descr:          UKNHS-82-2
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          194.155.20.0/23
+descr:          UKNHS-82-3
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.84.212.0/24
+descr:          The Crystallography Department
+descr:          Birkbeck College
+descr:          Malet Street
+descr:          London WC1E 7HX
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.76.20.0/23
+descr:          Oxford University
+descr:          Computing Services
+descr:          13 Banbury Road
+descr:          Oxford
+descr:          Oxfordshire
+descr:          OX2 6NN
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          137.222.0.0/16
+descr:          The University of Bristol
+descr:          Computing Service
+descr:          Tyndall Avenue
+descr:          Bristol BS8 1UD
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.76.28.0/22
+descr:          Oxford University
+descr:          Computing Services
+descr:          13 Banbury Road
+descr:          Oxford
+descr:          Oxfordshire
+descr:          OX2 6NN
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          128.86.0.0/16
+descr:          JANET Aggregated Route
+descr:          JANET(UK) Network Operations Centre
+descr:          100 Gray's Inn Road
+descr:          London WC1X 8AL
+descr:          United Kingdom
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+changed:        not@nosc.ja.net 20070706
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          138.253.0.0/16
+descr:          University of Liverpool
+descr:          Computing Services Department
+descr:          Brownlow Hill
+descr:          Liverpool
+descr:          L69 3BX
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+changed:        forte@ja.net 20081008
+changed:        ipaddress@ja.net 20081013
+changed:        not@nosc.ja.net 20081014
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.84.5.0/24
+descr:          Medical Research Council Biostatistics Unit
+descr:          Cambridge University
+descr:          Cambridge
+descr:          Cambridgeshire
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          161.73.0.0/16
+descr:          Oxford Brookes University
+descr:          Academic Computer Unit
+descr:          Floor 17
+descr:          Headington
+descr:          Oxford OX3 0BP
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          163.167.0.0/16
+descr:          University of North London
+descr:          166-220 Holloway Road
+descr:          London
+descr:          England
+descr:          N7 8DB
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          134.225.0.0/16
+descr:          Reading University
+descr:          Computer Services Centre
+descr:          Whiteknights Park
+descr:          Reading
+descr:          Berks RG6 2AX
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          143.52.0.0/15
+descr:          JANET Aggregated Route
+descr:          JANET(UK) Network Operations Centre
+descr:          100 Gray's Inn Road
+descr:          London WC1X 8AL
+descr:          United Kingdom
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+changed:        not@nosc.ja.net 20070706
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          155.198.0.0/16
+descr:          Imperial College of Science and Technology
+descr:          South Kensington
+descr:          London
+descr:          SW7 2BZ
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          150.237.0.0/16
+descr:          University of Hull
+descr:          Cottingham Road, Hull
+descr:          Humberside
+descr:          HU6 7RX
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.100.154.0/24
+descr:          Reading University
+descr:          Department of Cybernetics
+descr:          Whiteknights Park
+descr:          Reading
+descr:          Berks RG6 2AX
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          194.35.93.0/24
+descr:          Ravensbourne
+descr:          6 Penrose Way
+descr:          London
+descr:          SE10 0EW
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+changed:        k.bhodia@nosc.ja.net 20100528
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          141.241.0.0/16
+descr:          Kingston University
+descr:          Penrhyn Road
+descr:          Kingston-upon-Thames
+descr:          Surrey KT1 2EE
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          128.240.0.0/16
+descr:          University of Newcastle upon Tyne
+descr:          Computing Laboratory
+descr:          Claremont Road
+descr:          Newcastle upon Tyne NE1 7RU
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          143.167.0.0/16
+descr:          University of Sheffield
+descr:          2 Hounsfield Road
+descr:          Sheffield
+descr:          S10 2TN
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          134.83.0.0/16
+descr:          Brunel University
+descr:          Uxbridge Campus
+descr:          Uxbridge UB8 3PH
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          138.250.0.0/15
+descr:          JANET Aggregated Route
+descr:          JANET(UK) Network Operations Centre
+descr:          100 Gray's Inn Road
+descr:          London WC1X 8AL
+descr:          United Kingdom
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+changed:        not@nosc.ja.net 20070706
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          148.88.0.0/16
+descr:          Lancaster University
+descr:          Lancaster
+descr:          LA1 4YW
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          159.92.0.0/16
+descr:          UMDS
+descr:          Academic Computer Unit
+descr:          Floor 17
+descr:          Guy's Tower
+descr:          Guy's Hospital
+descr:          London SE1 9RT
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.18.195.0/24
+descr:          Medical Research Council - Cognition and Brain Sciences Unit
+descr:          15 Chaucer Road
+descr:          Cambridge CB2 2EF UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+changed:        forte@ja.net 20031209
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          148.79.0.0/16
+descr:          Daresbury Laboratory
+descr:          Daresbury
+descr:          Warrington
+descr:          WA4 4AD
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.33.16.0/24
+descr:          University of Sussex
+descr:          Computing Service
+descr:          University of Sussex,
+descr:          Falmer
+descr:          Brighton
+descr:          East Sussex BN1 9QJ
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          134.36.0.0/16
+descr:          Dundee University
+descr:          Dundee DD1 4HN
+descr:          Scotland
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          144.173.0.0/16
+descr:          Exeter University
+descr:          North Park Road
+descr:          Exeter
+descr:          EX4 4QE
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.88.9.0/24
+descr:          University of Wales - Aberystwyth
+descr:          Aberystwyth
+descr:          Dyfed
+descr:          Wales SY23 3BB
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.35.206.0/24
+descr:          University of Sussex
+descr:          Computing Service
+descr:          University of Sussex,
+descr:          Falmer
+descr:          Brighton
+descr:          East Sussex BN1 9QJ
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.133.244.0/24
+descr:          University of Reading
+descr:          Whiteknights
+descr:          Reading
+descr:          Berkshire
+descr:          RG6 2AX
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.84.84.0/24
+descr:          Network Unit
+descr:          University of Manchester
+descr:          Oxford Road
+descr:          Manchester M13 9PL
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          147.143.0.0/16
+descr:          University College of North Wales
+descr:          Sackville Road Bangor Gwynedd LL57 1LD
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          131.111.0.0/16
+descr:          University of Cambridge
+descr:          Computer Laboratory
+descr:          New Museums Site
+descr:          Pembroke Street
+descr:          Cambridge
+descr:          CB2 3QH
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+changed:        forte@ja.net 20041202
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.160.194.0/24
+descr:          JANET
+descr:          JANET(UK) Network Operations Centre
+descr:          100 Gray's Inn Road
+descr:          London WC1X 8AL
+descr:          United Kingdom
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        neal@nosc.ja.net 20090828
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.160.177.0/24
+descr:          Royal Free Hospital School Of Medicine
+descr:          Rowland Hill Street
+descr:          London
+descr:          NW3 2PF
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.190.202.0/24
+descr:          Trinity and All Saints College
+descr:          Brownberrie Lane
+descr:          Horsforth
+descr:          Leeds
+descr:          LS18 5HD
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.12.72.0/24
+descr:          University of London
+descr:          Computer Centre
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+changed:	not@nosc.ja.net 20091028
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          129.215.0.0/16
+descr:          University of Edinburgh
+descr:          Computing Service
+descr:          Kings Buildings
+descr:          Mayfield Road
+descr:          Edinburgh
+descr:          EH9 3JZ
+descr:          Scotland
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+changed:        forte@ja.net 20030926
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          128.232.0.0/16
+descr:          University of Cambridge Computer Laboratory
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        robert@nosc.ja.net 20020923
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.76.25.0/24
+descr:          Oxford University
+descr:          Science Area
+descr:          Oxford
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.150.177.0/24
+descr:          University of Manchester
+descr:          Computing Centre
+descr:          Oxford Road
+descr:          Manchester
+descr:          M13 9PL
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          147.188.0.0/16
+descr:          University of Birmingham
+descr:          Edgbaston
+descr:          Birmingham B15 2TT
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          139.184.0.0/16
+descr:          Computing Service
+descr:          University of Sussex
+descr:          Falmer
+descr:          Brighton
+descr:          East Sussex
+descr:          BN1 9QJ
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          129.12.0.0/16
+descr:          University of Kent at Canterbury
+descr:          The Computing Laboratory
+descr:          The University
+descr:          Canterbury, Kent
+descr:          CT2 7NF
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          134.220.0.0/16
+descr:          University of Wolverhampton
+descr:          Computer Centre
+descr:          Wulfruna Street
+descr:          Wolverhampton
+descr:          West Midlands WV1 1SB
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.107.168.0/24
+descr:          Medical Research Council
+descr:          National Institute for Medical Research
+descr:          The Ridgeway
+descr:          Mill Hill
+descr:          London NW7 1AA
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          193.32.7.0/24
+descr:          Edge Hill College of Higher Education
+descr:          St Helens Road
+descr:          Ormskirk
+descr:          Lancashire
+descr:          L39 4QP
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          138.40.0.0/16
+descr:          City University
+descr:          10 Northampton Sq.
+descr:          London EC1V 0HB
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          131.227.0.0/16
+descr:          University of Surrey
+descr:          Guildford
+descr:          Surrey GU2 5XH
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          137.108.0.0/16
+descr:          Open University
+descr:          Walton Hall
+descr:          Milton Keynes MK7 6AA
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          146.97.0.0/16
+descr:          JANET
+descr:          JANET(UK) Network Operations Centre
+descr:          100 Gray's Inn Road
+descr:          London WC1X 8AL
+descr:          United Kingdom
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+changed:        not@nosc.ja.net 20070706
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          130.88.0.0/16
+descr:          Network Unit
+descr:          University of Manchester
+descr:          Oxford Road
+descr:          Manchester M13 9PL
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          128.41.0.0/16
+descr:          University College London
+descr:          Department of Computer Science
+descr:          Gower Street
+descr:          London
+descr:          England
+descr:          WC1E 1BT
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          137.73.0.0/16
+descr:          King's College London
+descr:          Strand Campus
+descr:          London WC2R 2LS
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          129.234.0.0/16
+descr:          University of Durham
+descr:          South Road
+descr:          Durham
+descr:          DH1 3LE
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.173.128.0/21
+descr:          University of Brighton
+descr:          Watts Building
+descr:          Lewes Road
+descr:          Mouselecoomb
+descr:          Brighton
+descr:          BN2 4GJ
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          193.32.22.0/24
+descr:          Charing Cross Hospital Medical School
+descr:          Department Computing and Telecomms
+descr:          Fulham Palace Road
+descr:          London
+descr:          W6 8RF
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          161.74.0.0/16
+descr:          University of Westminster
+descr:          Information Resource Services
+descr:          115 New Cavendish Street
+descr:          London W1M 8JS
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          129.31.0.0/16
+descr:          Imperial College of Science and Technology
+descr:          South Kensington
+descr:          London
+descr:          SW7 2BZ
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          144.82.0.0/16
+descr:          The Bloomsbury Computing Consortium
+descr:          Kathleen Lonsdale Building
+descr:          University College London
+descr:          Gower Street
+descr:          London WC1E 6BT
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.147.2.0/24
+descr:          Keele University
+descr:          Dept of Computer Science
+descr:          Keele
+descr:          Staffordshire
+descr:          ST5 5BG
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          193.60.0.0/14
+descr:          JANET
+descr:          JANET(UK) Network Operations Centre
+descr:          100 Gray's Inn Road
+descr:          London WC1X 8AL
+descr:          United Kingdom
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+changed:        not@nosc.ja.net 20070706
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.146.136.0/24
+descr:          The University of Warwick
+descr:          Information Technology Services
+descr:          Coventry
+descr:          CV4 7AL
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+changed:        stan@whois.ja.net 20011122
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.42.100.0/24
+descr:          Keele University
+descr:          Dept of Computer Science
+descr:          Keele
+descr:          Staffordshire
+descr:          ST5 5BG
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          131.231.0.0/16
+descr:          Loughborough University
+descr:          University of Technology
+descr:          Loughborough LE11 3TU
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.107.11.0/24
+descr:          CCTA (The Government Centre for Information Systems)
+descr:          Rosebery Court
+descr:          St Andrews Business Park
+descr:          Norwich
+descr:          Norfolk
+descr:          NR7 0HS
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          157.140.0.0/16
+descr:          Natural History Museum
+descr:          Cromwell Road
+descr:          South Kensington
+descr:          London SW7 5BD
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.160.178.0/23
+descr:          Royal Free Hospital School of Medicine
+descr:          Rowland Hill Street
+descr:          London
+descr:          NW3 2PF
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          152.78.0.0/16
+descr:          Southampton University
+descr:          Computing Services
+descr:          Highfield
+descr:          Southampton SO9 5NH
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          157.228.0.0/16
+descr:          University of Sunderland
+descr:          Langham Tower
+descr:          Ryhope Road
+descr:          Sunderland SR2 7EE
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.195.105.0/24
+descr:          Charing Cross and Westminster Medical School
+descr:          London
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.76.6.0/23
+descr:          Oxford University
+descr:          Computing Services
+descr:          13 Banbury Road
+descr:          Oxford
+descr:          Oxfordshire
+descr:          OX2 6NN
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          161.112.0.0/16
+descr:          The University of Huddersfield HEC
+descr:          Queensgate
+descr:          Huddersfield
+descr:          West Yorkshire
+descr:          HD1 3DH
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          137.50.0.0/16
+descr:          Northern College
+descr:          Aberdeen Campus
+descr:          Hilton Place
+descr:          Aberdeen
+descr:          Scotland AB9 1FA
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.195.1.0/24
+descr:          University College Salford
+descr:          Frederick Road
+descr:          Salford
+descr:          Greater Manchester
+descr:          M6 6PU
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.108.120.0/24
+descr:          Royal Observatory Edinburgh
+descr:          Blackford Hill
+descr:          Edinburgh EH9 3HJ
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          137.44.0.0/16
+descr:          SWANSEA
+descr:          University College of Swansea
+descr:          Singleton Park
+descr:          Swansea
+descr:          South Wales
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          150.204.0.0/16
+descr:          Liverpool John Moores University
+descr:          Computer Services Department
+descr:          Mountford Building
+descr:          Byrom Street
+descr:          Liverpool
+descr:          Merseyside L3 3AF
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.195.43.0/24
+descr:          JANET
+descr:          JANET(UK) Network Operations Centre
+descr:          100 Gray's Inn Road
+descr:          London WC1X 8AL
+descr:          United Kingdom
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        neal@nosc.ja.net 20090828
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          148.197.0.0/16
+descr:          University of Portsmouth
+descr:          Mercantile House
+descr:          Hampshire Terrace
+descr:          Portsmouth
+descr:          Hampshire
+descr:          PO1 2EG
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          144.124.0.0/16
+descr:          University of Wales - Aberystwyth
+descr:          Aberystwyth
+descr:          Dyfed
+descr:          Wales SY23 3BB
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          194.66.0.0/16
+descr:          JANET
+descr:          JANET(UK) Network Operations Centre
+descr:          100 Gray's Inn Road
+descr:          London WC1X 8AL
+descr:          United Kingdom
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+changed:        not@nosc.ja.net 20070706
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.76.26.0/23
+descr:          Oxford University
+descr:          Computing Services
+descr:          13 Banbury Road
+descr:          Oxford
+descr:          Oxfordshire
+descr:          OX2 6NN
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          136.156.0.0/16
+descr:          European Centre for Medium-Range Weather Forecasts
+descr:          Shinfield Park
+descr:          Reading
+descr:          RG2 9A
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          194.62.24.0/22
+descr:          Scottish Homes
+descr:          91 Haymarket Terrace
+descr:          Edinburgh
+descr:          Scotland
+descr:          EH12 5HE
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          152.71.0.0/16
+descr:          The Nottingham Trent University
+descr:          Burton Street
+descr:          Nottingham
+descr:          England
+descr:          NG1 4BU
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          130.159.0.0/16
+descr:          University of Strathclyde
+descr:          Curran Building
+descr:          100 Cathedral Street
+descr:          Glasgow
+descr:          Scotland
+descr:          G4 0LN
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.76.12.0/22
+descr:          Oxford University
+descr:          Computing Services
+descr:          13 Banbury Road
+descr:          Oxford
+descr:          Oxfordshire
+descr:          OX2 6NN
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          194.35.192.0/19
+descr:          UHI Millennium Institute
+descr:          Executive Office
+descr:          Ness Walk
+descr:          Inverness
+descr:          Scotland
+descr:          IV3 5SQ
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+changed:        forte@ja.net 20030404
+changed:        forte@ja.net 20061205
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          146.169.0.0/16
+descr:          Imperial College of Science and Technology and Medicine
+descr:          Imperial College
+descr:          Exhibitiion Road
+descr:          London SW7 1AX
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          149.170.0.0/16
+descr:          Manchester Metropolitan University
+descr:          Chester Street
+descr:          Manchester
+descr:          England M1 5GD
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          152.105.0.0/16
+descr:          University of Teesside
+descr:          Borough Road
+descr:          Middlesbrough
+descr:          Cleveland TS1 3BA
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.173.1.0/24
+descr:          University of Northumbria at Newcastle
+descr:          Ellison Place
+descr:          Newcastle upon Tyne
+descr:          England
+descr:          NE1 8ST
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.147.1.0/24
+descr:          Keele University
+descr:          Dept of Computer Science
+descr:          Keele
+descr:          Staffordshire
+descr:          ST5 5BG
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          193.39.212.0/24
+descr:          Institute of Historical Research
+descr:          Senate House
+descr:          Malet Street
+descr:          London
+descr:          England
+descr:          WC1E 7HU
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.190.201.0/24
+descr:          Trinity and All Saints College
+descr:          Brownberrie Lane
+descr:          Horsforth
+descr:          Leeds
+descr:          LS18 5HD
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.100.78.0/24
+descr:          Rutherford Appleton Laboratory
+descr:          Chilton
+descr:          Didcot
+descr:          Oxon OX11 0QX
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          134.151.0.0/16
+descr:          Aston University
+descr:          Aston Triangle
+descr:          Birmingham
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.138.192.0/24
+descr:          Science and Engineering Research Council
+descr:          Daresbury Laboratory
+descr:          Warrington
+descr:          Cheshire WA4 4AD
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          194.36.1.0/24
+descr:          Glasgow University
+descr:          High Energy Physics
+descr:          Glasgow
+descr:          Scotland
+descr:          G12 8QQ
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          193.32.6.0/24
+descr:          Edge Hill College of Higher Education
+descr:          St Helens Road
+descr:          Ormskirk
+descr:          Lancashire
+descr:          L39 4QP
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.88.10.0/24
+descr:          University of Wales - Aberystwyth
+descr:          Aberystwyth
+descr:          Dyfed
+descr:          Wales SY23 3BB
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          128.40.0.0/16
+descr:          University College London
+descr:          Department of Computer Science
+descr:          Gower Street
+descr:          London
+descr:          WC1E 6BT
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          139.222.0.0/16
+descr:          University of East Anglia
+descr:          University Plain
+descr:          Norwich NR4 7TJ
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          141.163.0.0/16
+descr:          The University of Plymouth
+descr:          Drake Circus
+descr:          Plymouth
+descr:          Devon
+descr:          PL4 8AA
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          129.11.0.0/16
+descr:          Leeds University
+descr:          Leeds LS2 9JT
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          143.210.0.0/16
+descr:          University of Leicester
+descr:          University Road
+descr:          Leicester LE1 7RH
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          193.37.225.0/24
+descr:          Science Research Foundation
+descr:          University of Bristol
+descr:          Tyndall Ave
+descr:          Bristol
+descr:          BS8 1UD
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          160.5.0.0/16
+descr:          Keele University
+descr:          Computer Centre
+descr:          Keele University
+descr:          Keele
+descr:          Staffordshire ST5 5BG
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          137.205.0.0/16
+descr:          Warwick University
+descr:          Information Technology Services
+descr:          Coventry
+descr:          CV4 7AL
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+changed:        stan@whois.ja.net 20010926
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.35.205.0/24
+descr:          Computing Service
+descr:          University of Sussex
+descr:          Falmer
+descr:          Brighton
+descr:          East Sussex
+descr:          BN1 9QJ
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.84.80.0/22
+descr:          Manchester University, MCC
+descr:          Oxford Road
+descr:          Manchester
+descr:          M13 9PL
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.76.32.0/24
+descr:          University of Oxford
+descr:          Computing Laboratory
+descr:          11 Keble Road
+descr:          Oxford OX1 3QD
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          129.67.0.0/16
+descr:          Oxford University
+descr:          Science Area
+descr:          Oxford
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          155.245.0.0/16
+descr:          University of Essex
+descr:          Computing Service
+descr:          Wivenhoe Park
+descr:          Colchester
+descr:          Essex CO4 3SQ
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          144.32.0.0/16
+descr:          University of York
+descr:          Computing Service
+descr:          Heslington
+descr:          York YO10 5DD
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+changed:        hostmaster@nic.ja.net 20011018
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          130.209.0.0/16
+descr:          Glasgow University
+descr:          Glasgow G12 8QQ
+descr:          Scotland
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.76.18.0/24
+descr:          Oxford University
+descr:          Science Area
+descr:          Oxford
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.150.184.0/24
+descr:          Network Unit
+descr:          University of Manchester
+descr:          Oxford Road
+descr:          Manchester M13 9PL
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          129.169.0.0/16
+descr:          Cambridge University
+descr:          University Engineering Department
+descr:          Trumpington street
+descr:          Cambridge
+descr:          CB2 1PZ
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.84.75.0/24
+descr:          Network Unit
+descr:          University of Manchester
+descr:          Oxford Road
+descr:          Manchester M13 9PL
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          139.153.0.0/16
+descr:          University of Stirling
+descr:          Stirling
+descr:          FK9 4LA
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          136.148.0.0/16
+descr:          South Bank University
+descr:          Borough Road
+descr:          London SE1 0AA
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          161.76.0.0/16
+descr:          University of East London
+descr:          Longbridge Road
+descr:          Dagenham
+descr:          Essex RM8 2AS
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.76.10.0/24
+descr:          Oxford University
+descr:          Science Area
+descr:          Oxford
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.156.162.0/24
+descr:          Imperial College of Science and Technology
+descr:          South Kensington
+descr:          London
+descr:          England SW7 2BZ
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          164.11.0.0/16
+descr:          University of the West of England
+descr:          Bristol
+descr:          Coldharbour Lane
+descr:          Frenchay
+descr:          Bristol BS76 7QY
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          147.197.0.0/16
+descr:          University of Hertfordshire
+descr:          Computer Centre
+descr:          College Lane
+descr:          Hatfield
+descr:          Hertfordshire AL10 9AB
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          130.246.0.0/16
+descr:          Rutherford Appleton Laboratory
+descr:          Chilton
+descr:          Didcot
+descr:          Oxon OX11 0QX
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          146.191.0.0/16
+descr:          University of Paisley
+descr:          High Street
+descr:          Paisley
+descr:          Renfrewshire
+descr:          PA1 2BE
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.76.16.0/23
+descr:          Oxford University
+descr:          Computing Services
+descr:          13 Banbury Road
+descr:          Oxford
+descr:          Oxfordshire
+descr:          OX2 6NN
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          138.38.0.0/16
+descr:          Bath University
+descr:          Claverton Down, Bath
+descr:          Avon BA2 7AY
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          158.143.0.0/16
+descr:          London School of Economics and Political Science
+descr:          Houghton Street
+descr:          London WC2A 2AE
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.82.242.0/23
+descr:          Oxford University
+descr:          Computing Services
+descr:          13 Banbury Road
+descr:          Oxford
+descr:          Oxfordshire
+descr:          OX2 6NN
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          139.133.0.0/16
+descr:          University of Aberdeen
+descr:          Regent Walk
+descr:          Aberdeen AB9 1FX
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.94.235.0/24
+descr:          North East Wales Institute
+descr:          Plas Coch
+descr:          Mold Road
+descr:          Wrexham
+descr:          Clywd LL11 2AW
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.133.90.0/24
+descr:          The Turing Institute Ltd
+descr:          George House
+descr:          North Hanover Street
+descr:          Glasgow G1 2AD
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          128.243.0.0/16
+descr:          The University of Nottingham
+descr:          University Park
+descr:          Nottingham
+descr:          NG7 2RD
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          143.117.0.0/16
+descr:          Queens University Belfast
+descr:          Computer Centre
+descr:          Botanic Ave
+descr:          Belfast
+descr:          Northern Ireland
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.173.2.0/23
+descr:          University of Northumbria at Newcastle
+descr:          Computer Unit
+descr:          Northumberland Building
+descr:          Newcastle-upon-Tyne
+descr:          NE1 8ST
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          128.16.0.0/16
+descr:          University College London
+descr:          Department of Computer Science
+descr:          Gower Street
+descr:          London
+descr:          WC1E 6BT
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.82.153.0/24
+descr:          Medical Research Council Molecular Genetics Unit
+descr:          Hills Road
+descr:          Cambridge
+descr:          CB2 2QH
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          158.223.0.0/16
+descr:          Goldsmith's College
+descr:          New Cross
+descr:          London
+descr:          Greater London
+descr:          SE14 6NW
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          163.1.0.0/16
+descr:          Oxford University Computing Service
+descr:          13 Banbury Road
+descr:          Oxford OX2 6NN
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.173.4.0/24
+descr:          University of Northumbria at Newcastle
+descr:          Ellison Place
+descr:          Newcastle upon Tyne
+descr:          England
+descr:          NE1 8ST
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          146.87.0.0/16
+descr:          Salford University
+descr:          Academic Information Services
+descr:          Clifford Whitworth Building
+descr:          The Crescent
+descr:          Salford
+descr:          M5 4WT
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          146.176.0.0/16
+descr:          Napier University
+descr:          Sighthill Court
+descr:          Edinburgh
+descr:          Scotland
+descr:          EH11 4BN
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          134.219.0.0/16
+descr:          Royal Holloway and Bedford New College
+descr:          Egham
+descr:          Surrey TW20 0EX
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          146.227.0.0/16
+descr:          De Montfort University
+descr:          The Gateway
+descr:          Leicester
+descr:          England
+descr:          LE1 9BH
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.68.153.0/24
+descr:          Medical Research Council
+descr:          Clinical Research Centre
+descr:          Watford Road
+descr:          HARROW
+descr:          Middlesex HA1 3UJ
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.153.213.0/24
+descr:          University of Cambridge
+descr:          Computer Laboratory
+descr:          New Museum Site
+descr:          Cambridge
+descr:          Cambridgeshire CB2 3QG
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          137.195.0.0/16
+descr:          Heriot-Watt University
+descr:          Riccarton
+descr:          Edinburgh EH14 4AS
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.76.8.0/23
+descr:          Oxford University
+descr:          Computing Services
+descr:          13 Banbury Road
+descr:          Oxford
+descr:          Oxfordshire
+descr:          OX2 6NN
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          194.36.121.0/24
+descr:          HARDY-IP
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        nosc@nosc.ja.net 19951109
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          194.70.20.0/24
+descr:          UCESIS
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        kevin@nosc.ja.net 19951116
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.107.13.0/24
+descr:          CCTA-ATM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        kevin@nosc.ja.net 19951121
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          194.32.36.0/24
+descr:          Kennedy Institute of Rheumatology
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        robert@nosc.ja.net 19951208
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.171.128.0/18
+descr:          NERC aggregate 1
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        kevin@nosc.ja.net 19960210
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          194.80.0.0/14
+descr:          JANET
+descr:          JANET(UK) Network Operations Centre
+descr:          100 Gray's Inn Road
+descr:          London WC1X 8AL
+descr:          United Kingdom
+origin:         AS786
+mnt-lower:      JIPS-NOSC
+mnt-by:         JIPS-NOSC
+changed:        robert@nosc.ja.net 20011024
+changed:        not@nosc.ja.net 20070706
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.171.192.0/21
+descr:          National Environment Research Council
+descr:          4th Floor
+descr:          Holbrook House
+descr:          Swindon
+descr:          Wiltshire SN1 1DE
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        kevin@nosc.ja.net 19960220
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.84.76.0/22
+descr:          Manchester University
+descr:          Manchester Computing Centre
+descr:          University of Manchester
+descr:          Oxford Road
+descr:          Manchester
+descr:          M13 9PL
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        robert@nosc.ja.net 19960424
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.147.23.0/24
+descr:          Network Unit
+descr:          University of Manchester
+descr:          Oxford Road
+descr:          Manchester M13 9PL
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        robert@nosc.ja.net 19960424
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.150.178.0/23
+descr:          Network Unit
+descr:          University of Manchester
+descr:          Oxford Road
+descr:          Manchester M13 9PL
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        robert@nosc.ja.net 19960424
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.150.180.0/22
+descr:          Network Unit
+descr:          University of Manchester
+descr:          Oxford Road
+descr:          Manchester M13 9PL
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        robert@nosc.ja.net 19960424
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          194.32.41.0/24
+descr:          Riverside Hospitals
+descr:          Charing Cross Hospital Medical School
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        nosc@nosc.ja.net 19960531
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          194.36.152.0/21
+descr:          Halesown College
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        nosc@nosc.ja.net 19960722
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          195.104.182.0/24
+descr:          Central Manchester Healthcare NHS Trust
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        duncan@nosc.ja.net 19960816
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          163.160.0.0/16
+descr:          United Leeds Teaching Hospitals NHS Trust
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        nosc@nosc.ja.net 19960919
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.41.128.0/22
+descr:          Edinburgh University
+descr:          Computing Service
+descr:          Kings Buildings
+descr:          Mayfield Road
+descr:          Edinburgh
+descr:          EH9 3JZ
+descr:          Scotland
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        robert@nosc.ja.net 19970707
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.41.102.0/23
+descr:          Edinburgh University
+descr:          Computing Service
+descr:          Kings Buildings
+descr:          Mayfield Road
+descr:          Edinburgh
+descr:          EH9 3JZ
+descr:          Scotland
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        robert@nosc.ja.net 19970707
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.41.104.0/21
+descr:          University of Edinburgh
+descr:          Computing Service
+descr:          Kings Buildings
+descr:          Edinburgh
+descr:          Scotland
+descr:          EH9 3JZ
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        robert@nosc.ja.net 19970707
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.41.112.0/20
+descr:          University of Edinburgh
+descr:          Computing Service
+descr:          Kings Buildings
+descr:          Edinburgh
+descr:          Scotland
+descr:          EH9 3JZ
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        robert@nosc.ja.net 19970707
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          195.194.0.0/15
+descr:          JANET
+descr:          JANET(UK) Network Operations Centre
+descr:          100 Gray's Inn Road
+descr:          London WC1X 8AL
+descr:          United Kingdom
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        robert@nosc.ja.net 19970801
+changed:        not@nosc.ja.net 20070706
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          194.36.2.0/23
+descr:          Manchester University
+descr:          Department of Physics
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        duncan@nosc.ja.net 19980716
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          160.9.0.0/16
+descr:          Leeds Metropolitan University
+descr:          Calverley Street
+descr:          Leeds LS1 3HE
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+changed:        duncan@nosc.ja.net 19980731
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.6.10.0/24
+descr:          HP Labs
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        robert@nosc.ja.net 20030411
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          212.219.0.0/16
+descr:          JANET
+descr:          JANET(UK) Network Operations Centre
+descr:          100 Gray's Inn Road
+descr:          London WC1X 8AL
+descr:          United Kingdom
+origin:         AS786
+notify:         jips-nosc@nosc.ja.net
+mnt-by:         JIPS-NOSC
+changed:        hostmaster@nic.ja.net 19981009
+changed:        not@nosc.ja.net 20070706
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          158.125.0.0/16
+descr:          Loughborough University
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        robert@nosc.ja.net 19990414
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          193.38.143.0/24
+descr:          Thurrock College
+origin:         AS786
+notify:         jips-nosc@nosc.ja.net
+mnt-by:         JIPS-NOSC
+changed:        asquith@nosc.ja.net 19990504
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          149.155.0.0/16
+descr:          Biotechnology And Biological Science Research Council
+descr:          West Common
+descr:          Harpenden
+descr:          Herts AL5 2JE
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        eric.chin@bbsrc.ac.uk 19990726
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          194.32.32.0/20
+descr:          Hammersmith Hospital NHS Trust
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        rhe@nosc.ja.net 19991005
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          193.39.80.0/21
+descr:          Hammersmith Hospital NHS Trust
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        rhe@nosc.ja.net 19991005
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          193.9.15.0/24
+descr:          Electronic Media in Education Research
+descr:          Open University
+descr:          Milton Keynes
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        robert@nosc.ja.net 19991101
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.76.32.0/22
+descr:          Oxford University
+descr:          Computing Services
+descr:          13 Banbury Road
+descr:          Oxford
+descr:          Oxfordshire
+descr:          OX2 6NN
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        robert@nosc.ja.net 20010212
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.76.32.0/21
+descr:          Oxford University
+descr:          Computing Services
+descr:          13 Banbury Road
+descr:          Oxford
+descr:          Oxfordshire
+descr:          OX2 6NN
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        robert@nosc.ja.net 20010212
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.76.24.0/21
+descr:          Oxford University
+descr:          Computing Services
+descr:          13 Banbury Road
+descr:          Oxford
+descr:          Oxfordshire
+descr:          OX2 6NN
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        robert@nosc.ja.net 20010212
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.76.16.0/21
+descr:          Oxford University
+descr:          Computing Services
+descr:          13 Banbury Road
+descr:          Oxford
+descr:          Oxfordshire
+descr:          OX2 6NN
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        robert@nosc.ja.net 20010212
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.76.16.0/20
+descr:          Oxford University
+descr:          Computing Services
+descr:          13 Banbury Road
+descr:          Oxford
+descr:          Oxfordshire
+descr:          OX2 6NN
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        robert@nosc.ja.net 20010305
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          81.87.0.0/16
+descr:          JANET
+descr:          JANET(UK) Network Operations Centre
+descr:          100 Gray's Inn Road
+descr:          London WC1X 8AL
+descr:          United Kingdom
+origin:         AS786
+notify:         jips-nosc@nosc.ja.net
+mnt-by:         JIPS-NOSC
+changed:        rhe@nosc.ja.net 20020617
+changed:        not@nosc.ja.net 20070706
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          193.39.172.0/22
+descr:          Gwynedd County Council
+mnt-by:         JIPS-NOSC
+origin:         AS786
+changed:        selina@ans.net 19951011
+changed:        robert@nosc.ja.net 20030203
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.6.20.0/24
+descr:          HP Labs
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        robert@nosc.ja.net 20030411
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          193.39.144.0/20
+descr: 	        The City Of Edinburgh Council
+descr:          City Chambers
+descr:          High Street
+descr:          Edinburgh
+descr:          EH1 1YJ
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        forte@ja.net 20031104
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          89.207.208.0/21
+descr:          YHGfL Foundation
+origin:         AS786
+notify:         jips-nosc@nosc.ja.net
+mnt-by:         JIPS-NOSC
+changed:        jon@nosc.ja.net 20060921
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.76.8.0/21
+descr:          Oxford University
+descr:          Computing Services
+descr:          13 Banbury Road
+descr:          Oxford
+descr:          Oxfordshire
+descr:          OX2 6NN
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        selina@ans.net 19951011
+changed:        forte@ja.net 20061103
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:		192.100.136.0/24
+descr:		University of Newcastle upon Tyne
+descr:		Information Systems and Services
+descr:		Claremont Road
+descr:		Newcastle upon Tyne
+descr:		NE1 7RU
+descr:		United Kingdom
+origin:		AS786
+mnt-by:		JIPS-NOSC
+changed:        rhe@nosc.ja.net 20080710
+source:		RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:		192.100.137.0/24
+descr:		University of Newcastle upon Tyne
+descr:		Information Systems and Services
+descr:		Claremont Road
+descr:		Newcastle upon Tyne
+descr:		NE1 7RU
+descr:		United Kingdom
+origin:		AS786
+mnt-by:		JIPS-NOSC
+changed:        rhe@nosc.ja.net 20080710
+source:		RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          92.245.224.0/19
+descr:          PSBA Network
+descr:          Welsh Assembly Government
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        R.Stone@nosc.ja.net 20080820
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          62.40.119.0/24
+descr:          GEANT European Backbone, Network Operations Centre
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        rhe@nosc.ja.net 20081104
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          212.121.192.0/19
+descr:          North West Learning Grid
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        R.Stone@nosc.ja.net 20090518
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.188.157.0/24
+descr:          JANET
+descr:          JANET(UK) Network Operations Centre
+descr:          100 Gray's Inn Road
+descr:          London WC1X 8AL
+descr:          United Kingdom
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        neal@nosc.ja.net 20090828
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.188.158.0/24
+descr:          JANET
+descr:          JANET(UK) Network Operations Centre
+descr:          100 Gray's Inn Road
+descr:          London WC1X 8AL
+descr:          United Kingdom
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        neal@nosc.ja.net 20090828
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.195.42.0/24
+descr:          JANET
+descr:          JANET(UK) Network Operations Centre
+descr:          100 Gray's Inn Road
+descr:          London WC1X 8AL
+descr:          United Kingdom
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        neal@nosc.ja.net 20090828
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          131.176.246.0/24
+descr:          ODAD-Janet-Farnborough
+origin:         AS786
+remarks:        -------------------------------------------------------
+remarks:        All communication must be directed to esanic@esa.int
+remarks:        Phone are only to be used as backup. +39 06 94188688
+remarks:        Office Hours are : 08:30 - 17:15 CET.
+remarks:        -------------------------------------------------------
+mnt-by:         ESANIC-MNT
+mnt-by:         JIPS-NOSC
+mnt-routes:     JIPS-NOSC
+changed:        esanin@esa.int 20100120
+changed:        R.Stone@nosc.ja.net 20100120
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.170.103.0/24
+descr:          HP Labs - Bristol
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:	k.bhodia@nosc.ja.net 20100527
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          156.136.0.0/16
+descr:          HP Labs - Bristol
+origin:         AS786
+mnt-by:         JIPS-NOSC
+mnt-routes:     RIPE-NCC-RPSL-MNT
+changed:        s.innes@nosc.ja.net 20100614
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          85.12.64.0/18
+descr:          East of England Broadband Network
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        R.Stone@nosc.ja.net 20100728
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          193.107.116.0/22
+descr:          Bedford Borough Council
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        agh@nosc.ja.net 20100810
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          46.254.200.0/21
+descr:          PSBA Network
+descr:          Welsh Assembly Government
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        peter.atkins@ja.net 20110110
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:           193.138.86.0/24
+descr:           Traffic Wales
+origin:          AS786
+mnt-by:          JIPS-NOSC
+changed:         R.Stone@nosc.ja.net 20110721
+source:          RIPE
+remarks:         ****************************
+remarks:         * THIS OBJECT IS MODIFIED
+remarks:         * Please note that all data that is generally regarded as personal
+remarks:         * data has been removed from this object.
+remarks:         * To view the original object, please query the RIPE Database at:
+remarks:         * http://www.ripe.net/whois
+remarks:         ****************************
+
+route:           141.170.64.0/19
+descr:           Janet 3G
+origin:          AS786
+mnt-by:          JIPS-NOSC
+source:          RIPE
+changed:         agh@nosc.ja.net 20110727
+remarks:         ****************************
+remarks:         * THIS OBJECT IS MODIFIED
+remarks:         * Please note that all data that is generally regarded as personal
+remarks:         * data has been removed from this object.
+remarks:         * To view the original object, please query the RIPE Database at:
+remarks:         * http://www.ripe.net/whois
+remarks:         ****************************
+
+route:           141.170.96.0/22
+descr:           Janet 3G
+origin:          AS786
+mnt-by:          JIPS-NOSC
+source:          RIPE
+changed:         agh@nosc.ja.net 20110727
+remarks:         ****************************
+remarks:         * THIS OBJECT IS MODIFIED
+remarks:         * Please note that all data that is generally regarded as personal
+remarks:         * data has been removed from this object.
+remarks:         * To view the original object, please query the RIPE Database at:
+remarks:         * http://www.ripe.net/whois
+remarks:         ****************************
+
+route:           141.170.100.0/23
+descr:           Janet 3G
+origin:          AS786
+mnt-by:          JIPS-NOSC
+source:          RIPE
+changed:         agh@nosc.ja.net 20110727
+remarks:         ****************************
+remarks:         * THIS OBJECT IS MODIFIED
+remarks:         * Please note that all data that is generally regarded as personal
+remarks:         * data has been removed from this object.
+remarks:         * To view the original object, please query the RIPE Database at:
+remarks:         * http://www.ripe.net/whois
+remarks:         ****************************
+
+route:           159.86.128.0/18
+descr:           PSBA Network
+descr:           Welsh Assembly Government
+origin:          AS786
+mnt-by:          JIPS-NOSC
+changed:         ipaddress@ja.net 20120126
+source:          RIPE
+remarks:         ****************************
+remarks:         * THIS OBJECT IS MODIFIED
+remarks:         * Please note that all data that is generally regarded as personal
+remarks:         * data has been removed from this object.
+remarks:         * To view the original object, please query the RIPE Database at:
+remarks:         * http://www.ripe.net/whois
+remarks:         ****************************
+
+route:           62.40.111.0/24
+descr:           GEANT European Backbone, Network Operations Centre
+origin:          AS786
+mnt-by:          JIPS-NOSC
+changed:         R.Stone@nosc.ja.net 20120209
+source:          RIPE
+remarks:         ****************************
+remarks:         * THIS OBJECT IS MODIFIED
+remarks:         * Please note that all data that is generally regarded as personal
+remarks:         * data has been removed from this object.
+remarks:         * To view the original object, please query the RIPE Database at:
+remarks:         * http://www.ripe.net/whois
+remarks:         ****************************
+
+route:           138.37.0.0/16
+descr:          Dummy description for 138.37.0.0/16AS786
+origin:          AS786
+mnt-by:          JIPS-NOSC
+mnt-by:          MNT-QMW-AC-UK
+changed:        unread@ripe.net 20000101
+source:          RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:           161.23.0.0/16
+descr:          Dummy description for 161.23.0.0/16AS786
+origin:          AS786
+mnt-by:          JIPS-NOSC
+mnt-by:          MNT-QMW-AC-UK
+changed:        unread@ripe.net 20000101
+source:          RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:           192.135.231.0/24
+descr:          Dummy description for 192.135.231.0/24AS786
+origin:          AS786
+mnt-by:          JIPS-NOSC
+mnt-by:      	 MNT-QMW-AC-UK
+changed:        unread@ripe.net 20000101
+source:          RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:           192.135.232.0/24
+descr:          Dummy description for 192.135.232.0/24AS786
+origin:          AS786
+mnt-by:          JIPS-NOSC
+mnt-by:       	 MNT-QMW-AC-UK
+changed:        unread@ripe.net 20000101
+source:          RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:           192.135.233.0/24
+descr:          Dummy description for 192.135.233.0/24AS786
+origin:          AS786
+mnt-by:          JIPS-NOSC
+mnt-by:      	 MNT-QMW-AC-UK
+changed:        unread@ripe.net 20000101
+source:          RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:           192.135.234.0/24
+descr:          Dummy description for 192.135.234.0/24AS786
+origin:          AS786
+mnt-by:          JIPS-NOSC
+mnt-by:    	 MNT-QMW-AC-UK
+changed:        unread@ripe.net 20000101
+source:          RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:           194.36.8.0/22
+descr:          Dummy description for 194.36.8.0/22AS786
+origin:          AS786
+mnt-by:          JIPS-NOSC
+mnt-by:          MNT-QMW-AC-UK
+changed:        unread@ripe.net 20000101
+source:          RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:           158.94.0.0/16
+descr:          Dummy description for 158.94.0.0/16AS786
+origin:          AS786
+mnt-by:          JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:          RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:           171.33.216.0/21
+descr:          Dummy description for 171.33.216.0/21AS786
+origin:          AS786
+mnt-by:          JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:          RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:           5.150.80.0/20
+descr:          Dummy description for 5.150.80.0/20AS786
+origin:          AS786
+mnt-by:          JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:          RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:           5.150.96.0/19
+descr:          Dummy description for 5.150.96.0/19AS786
+origin:          AS786
+mnt-by:          JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:          RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:           171.33.192.0/21
+descr:          Dummy description for 171.33.192.0/21AS786
+origin:          AS786
+mnt-by:          JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:          RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:           128.41.0.0/18
+descr:          Dummy description for 128.41.0.0/18AS786
+origin:          AS786
+mnt-by:          JANET-HOSTMASTER
+changed:        unread@ripe.net 20000101
+source:          RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:           131.251.0.0/16
+descr:          Dummy description for 131.251.0.0/16AS786
+origin:          AS786
+mnt-by:          JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:          RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          91.237.231.0/24
+descr:          Dummy description for 91.237.231.0/24AS786
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          194.187.32.0/22
+descr:          Dummy description for 194.187.32.0/22AS786
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          151.133.238.0/23
+descr:          Dummy description for 151.133.238.0/23AS786
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          193.36.16.0/20
+descr:          Dummy description for 193.36.16.0/20AS786
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          91.227.178.0/24
+descr:          London Borough of Wandsworth
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          129.208.0.0/16
+descr:          University of Birmingham
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          194.35.186.0/24
+descr:          Germanischer Lloyd Industrial Services UK Ltd
+descr:          Holywell Park
+descr:          GL ND UK IT
+descr:          Ashby Rd
+descr:          Loughborough
+descr:          Leicestershire
+descr:          LE11 3GR
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          31.222.212.0/24
+descr:          West Berkshire District Council
+origin:         AS786
+mnt-by:         JIPS-NOSC
+mnt-by:         synetrix
+changed:        unread@ripe.net 20000101
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          91.216.181.0/24
+descr:          London Borough of Brent
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          195.191.66.0/23
+descr:          London Borough of Camden
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          193.105.13.0/24
+descr:          London Borough of Camden
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          146.179.0.0/16
+descr:          Imperial College London
+descr:          Exhibition Road
+descr:          London SW7 2BX
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          137.253.0.0/16
+descr:          University of London
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          194.35.241.0/24
+descr:          Norwich University of the Arts
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          163.119.0.0/16
+descr:          London Business School
+descr:          Sussex Place
+descr:          Regent's Park
+descr:          London
+descr:          NW1 4SA
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+mnt-lower:      ICMNETSERV-MNT
+mnt-lower:      outsourcery-MNT
+changed:        unread@ripe.net 20000101
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          194.61.79.0/24
+descr:          London Borough of Greenwich
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          194.34.10.0/24
+descr:          Assessment and Qualifications Alliance (AQA)
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          194.34.8.0/23
+descr:          Assessment and Qualifications Alliance (AQA)
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.100.136.0/23
+descr:          University of Newcastle upon Tyne
+descr:          Information Systems and Services
+descr:          Claremont Road
+descr:          Newcastle upon Tyne
+descr:          NE1 7RU
+descr:          United Kingdom
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.100.138.0/24
+descr:          University of Newcastle upon Tyne
+descr:          Information Systems and Services
+descr:          Claremont Road
+descr:          Newcastle upon Tyne
+descr:          NE1 7RU
+descr:          United Kingdom
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          192.124.46.0/24
+descr:          JANET
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route:          140.97.0.0/16
+descr:          London Metropolitan University
+descr:          16 Goulston St
+descr:          London
+descr:          E1 7TP
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route6:         2001:630::/32
+descr:          JANET
+descr:          JANET(UK) Network Operations Centre
+descr:          100 Gray's Inn Road
+descr:          London WC1X 8AL
+descr:          United Kingdom
+descr:          UNITED KINGDOM
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        robert@nosc.ja.net 20050204
+changed:        not@nosc.ja.net 20070706
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS NOT VALID
+remarks:        * Please note that all personal data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route6:         2a02:6c00::/37
+descr:          Kent-Schools
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
+
+route6:         2001:798:5e01::/64
+descr:          GEANT Operations Centre Cambridge
+origin:         AS786
+mnt-by:         JIPS-NOSC
+changed:        unread@ripe.net 20000101
+source:         RIPE
+remarks:        ****************************
+remarks:        * THIS OBJECT IS MODIFIED
+remarks:        * Please note that all data that is generally regarded as personal
+remarks:        * data has been removed from this object.
+remarks:        * To view the original object, please query the RIPE Database at:
+remarks:        * http://www.ripe.net/whois
+remarks:        ****************************
